@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Login_Signup/static/css/main.d46ae862.css",
+    "main.js": "/Login_Signup/static/js/main.0f5fb434.js",
+    "index.html": "/Login_Signup/index.html",
+    "main.d46ae862.css.map": "/Login_Signup/static/css/main.d46ae862.css.map",
+    "main.0f5fb434.js.map": "/Login_Signup/static/js/main.0f5fb434.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d46ae862.css",
+    "static/js/main.0f5fb434.js"
+  ]
+}
